@@ -2,7 +2,7 @@
 
 **On our Wiki we will explain the fundementals of a couple amazing frameworks, more will be added in the future!**
 
-<p align="center"><a href="https://symfony.com" target="_blank">
+<p align="center"><a href="https://github.com/MiguelFieira/Opdrachten/wiki" target="_blank">
     <img src="https://symfony.com/logos/symfony_black_02.svg">
 </a></p>
 
@@ -10,8 +10,6 @@
 **PHP components**. Symfony is used by thousands of web applications (including
 BlaBlaCar.com and Spotify.com) and most of the [popular PHP projects](https://symfony.com/projects) (including
 Drupal and Magento).
-
-* **[Our Tutorial](https://github.com/MiguelFieira/Opdrachten/wiki)**
 
 ---
 
